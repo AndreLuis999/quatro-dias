@@ -38,10 +38,10 @@ const APP_CONFIG = {
 
   /** Cronograma oficial — edite apenas aqui para ajustar datas */
   dias: {
-    1: { dateString: '2026-07-06T00:00:00-03:00', url: 'pages/dia1.html', tema: 'Confiança' },
-    2: { dateString: '2026-07-06T00:00:00-03:00', url: 'pages/dia2.html', tema: 'Gratidão' },
-    3: { dateString: '2026-07-06T00:00:00-03:00', url: 'pages/dia3.html', tema: 'Entrega' },
-    4: { dateString: '2026-07-06T00:00:00-03:00', url: 'pages/dia4.html', tema: 'Esperança' }
+    1: { dateString: '2026-07-09T00:00:00-03:00', url: 'pages/dia1.html', tema: 'Confiança' },
+    2: { dateString: '2026-07-10T00:00:00-03:00', url: 'pages/dia2.html', tema: 'Gratidão' },
+    3: { dateString: '2026-07-11T00:00:00-03:00', url: 'pages/dia3.html', tema: 'Entrega' },
+    4: { dateString: '2026-07-12T00:00:00-03:00', url: 'pages/dia4.html', tema: 'Esperança' }
   }
 };
 
